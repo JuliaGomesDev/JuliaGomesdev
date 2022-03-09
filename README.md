@@ -1,4 +1,4 @@
-## Olá! Eu sou a Júlia Gomes 😁
+## Olá! Bem vindo(a) ao meu perfil! 😁
 
  <div>
   <a href="https://github.com/JuliaGomesdev">

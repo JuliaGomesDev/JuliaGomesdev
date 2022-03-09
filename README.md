@@ -1,4 +1,4 @@
-## Olá eu sou a Júlia Gomes! 😁
+## Olá! Eu sou a Júlia Gomes 😁
 
  <div>
   <a href="https://github.com/JuliaGomesdev">
